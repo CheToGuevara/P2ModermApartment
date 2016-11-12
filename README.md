@@ -13,8 +13,9 @@ Built a new apartment. Added lights, animation, and view it all in VR.
 
 #Comments to the submit
 
+* I have got an error with the TriggerAnimation.cs, the Awake code it executes before the Gvrmain, to solve this, as the GVR explain, I have to move the AWAKE code to the START CODE
 * I have to do the project in the course apartment because the empty scene it doesn't work
-* It is oriented to do things in Unity, I appreciate recomendations for VR but it's too easy.
+* It is oriented to do things in Unity, I appreciate recomendations for VR because this core lesson is too easy.
 * I delete the Plugin folder, Google VR and Udacity VR folder
 
 
